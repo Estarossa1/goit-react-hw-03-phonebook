@@ -8,7 +8,7 @@ export default class Footer extends Component {
             <div className={css.footer}>
                 <p>
                 © 2023 Phonebook. All rights reserved. <br />
-                Created by Petro Shutak
+                Created by Estar0ssa1
                 </p>
             </div>
         );
